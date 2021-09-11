@@ -1,12 +1,15 @@
 # MacOS chad user
 to make other macOS users sad
 
-# open up terminal and go:
-1. ``brew install nano``
-2. ``brew install starship``
-3. ``nano ~/.zshrc``
+# be sure to have brew installed before even attempting 
+[install brew](https://brew.sh/)
 
-# finally add in this (be sure to save and exit)
+# Now that you have installed brew. Open terminal and follow down:
+command 1: ``brew install nano``
+command 2: ``brew install starship``
+final command: ``nano ~/.zshrc``
+
+# finally add in this (be sure to save before exiting)
 ``eval "$(starship init zsh)"``
 
 then restart terminal and behold the glory

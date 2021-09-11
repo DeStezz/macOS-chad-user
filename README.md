@@ -11,4 +11,6 @@ to make other macOS users sad
 
 then restart terminal and behold the glory
 
+![Open other application](/Screen Shot 2021-09-11 at 6.27.44 pm.png)
+
 [Starship](https://github.com/starship/starship)

@@ -11,4 +11,4 @@ to make other macOS users sad
 
 then restart terminal and behold the glory
 
-[starship](https://github.com/starship/starship)
+[Starship](https://github.com/starship/starship)

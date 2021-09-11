@@ -6,7 +6,9 @@ to make other macOS users sad
 
 # Now that you have installed brew. Open terminal and follow down:
 command 1: ``brew install nano``
+
 command 2: ``brew install starship``
+
 final command: ``nano ~/.zshrc``
 
 # finally add in this (be sure to save before exiting)
